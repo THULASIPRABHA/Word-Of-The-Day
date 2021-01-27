@@ -1,5 +1,4 @@
 import requests
-import mwparserfromhell
 from datetime import date
 import re
 today = date.today()
